@@ -13,3 +13,6 @@ The data analysis process varies but shares common elements. The Google Data Ana
 6. **Act**: Apply insights to solve problems.
 
 Different models exist, including those by EMC, SAS, Vignesh Prajapati, and authors of big data analytics, each emphasizing phases like discovery, data preparation, analysis, and acting on insights. These models highlight the cyclical and iterative nature of data analysis, showing various approaches but maintaining core principles. The evolution of data analysis shows consistent themes, despite different structures, ensuring effectiveness across methods.
+
+# Understanding the data analytics project life cycle
+https://pingax.com/Data%20Analyst/understanding-data-analytics-project-life-cycle/
